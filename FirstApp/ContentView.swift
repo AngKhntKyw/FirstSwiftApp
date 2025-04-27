@@ -16,7 +16,7 @@ struct ContentView: View {
                 HStack {
                     Text("Twentynine Palms").font(.subheadline)
                     Spacer()
-                    Text("Califonia").font(.subheadline)
+                    Text("Califonia, USA").font(.subheadline)
                 }
                 
                 Divider()
